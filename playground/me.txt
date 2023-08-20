@@ -1,5 +1,0 @@
-{{#user}}
-Name: Arjun Tudu
-Skills: HTML, CSS, JS, React Js
-Email: arjuntudu884@gmail.com
-{{/user}}
